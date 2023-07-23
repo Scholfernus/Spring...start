@@ -1,4 +1,4 @@
-package PawelDemo.Rest.Api;
+package pawel.Demo.Rest.Api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
